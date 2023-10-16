@@ -5,3 +5,5 @@ letra = nome[:3]
 
 print(letra.upper())
 
+
+
